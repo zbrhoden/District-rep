@@ -1,0 +1,6 @@
+.committees {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 1em;
+    display: flex; 
+}
